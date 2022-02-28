@@ -96,7 +96,7 @@ function HomeScreen() {
           />
 
           <div className="product__info">
-            <p className="info__name">Smoke Detecto</p>
+            <p className="info__name">Smoke Detector</p>
 
             <p className="info__description">
               Smoke alarms detect fires by sensing small particles in the air
